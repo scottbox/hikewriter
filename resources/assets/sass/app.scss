@@ -1,7 +1,72 @@
 @import "bootstrap/_bootstrap";
 @import "compass/css3";
 
+// my theme
+$buff: #666446;
+$blue: #233E47;
+$green: #066964;
+$natural: #E0DEA0;
+$ecru: #FFFACD;
+
+$default-text-shadow-color: rgba(black, 0.4);
+$default-text-shadow-blur: 3px;
+$default-text-shadow-v-offset: 1px;
+
 body {
-	background: rgba(0,0,255,0.5);
-	color: #F0F;
+
+}
+
+/* form bits */
+.btn-file {
+    position: relative;
+    overflow: hidden;
+	
+	input[type=file] {
+		position: absolute;
+		top: 0;
+		right: 0;
+		min-width: 100%;
+		min-height: 100%;
+		font-size: 100px;
+		text-align: right;
+		filter: alpha(opacity=0);
+		opacity: 0;
+		outline: none;
+		background: white;
+		cursor: inherit;
+		display: block;
+	}
+}
+
+#header {
+	.navbar {
+		margin-bottom: 0;
+	}
+}
+
+/* walk pages */
+.splash {
+	min-height: 360px;
+	padding: 40px 0;
+	background: {
+		repeat: no-repeat;
+		position: center center;
+		@include background-size(cover);
+	};
+	
+	h1 {
+		margin-top: 0;
+		font-family: pacifico;
+		color: #FFF;
+		font-weight: 400;
+		font-size: 4em;
+		@include single-text-shadow();
+	}
+}
+
+#footer {
+	background: $buff;
+	color: #FFF;
+	padding: 1em 0;
+	margin-top: 1em;
 }

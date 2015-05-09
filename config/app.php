@@ -39,7 +39,7 @@ return [
 	|
 	*/
 
-	'timezone' => 'UTC',
+	'timezone' => 'Europe/London',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -52,7 +52,7 @@ return [
 	|
 	*/
 
-	'locale' => 'en',
+	'locale' => 'en-GB',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -135,6 +135,7 @@ return [
 		'Illuminate\Translation\TranslationServiceProvider',
 		'Illuminate\Validation\ValidationServiceProvider',
 		'Illuminate\View\ViewServiceProvider',
+		'Cviebrock\EloquentSluggable\SluggableServiceProvider',
 
 		/*
 		 * Application Service Providers...
@@ -144,6 +145,8 @@ return [
 		'App\Providers\ConfigServiceProvider',
 		'App\Providers\EventServiceProvider',
 		'App\Providers\RouteServiceProvider',
+		'Cviebrock\EloquentSluggable\SluggableServiceProvider',
+		'Illuminate\Html\HtmlServiceProvider'
 
 	],
 
@@ -192,6 +195,8 @@ return [
 		'URL'       => 'Illuminate\Support\Facades\URL',
 		'Validator' => 'Illuminate\Support\Facades\Validator',
 		'View'      => 'Illuminate\Support\Facades\View',
+		'Form'=> 'Illuminate\Html\FormFacade',
+		'HTML'=> 'Illuminate\Html\HtmlFacade'
 
 	],
 
