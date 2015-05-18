@@ -13,11 +13,12 @@
 
 Route::resource('content', 'ContentController');
 Route::resource('walk', 'WalkController');
+Route::resource('upvote', 'UpvoteController');
 Route::resource('user', 'UserController');
 
 Route::controllers([
 	'auth' => 'Auth\AuthController',
-	'password' => 'Auth\PasswordController',
+	'password' => 'Auth\PasswordController'
 ]);
 
 Route::get('/', 'ContentController@index');

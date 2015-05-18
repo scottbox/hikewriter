@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.1" creator="c2eca47a-a039-4592-b70c-4f228316d093" xmlns="http://www.topografix.com/GPX/1/1">
+  <rte>
+    <name>Colnebridge Circular</name>
+    <rtept lat="53.681894791081056" lon="-1.742929471484274">
+      <ele>88.4</ele>
+    </rtept>
+    <rtept lat="53.682148964087311" lon="-1.7425754198943082">
+      <ele>90.9</ele>
+    </rtept>
+    <rtept lat="53.681761222877093" lon="-1.7398841459070411">
+      <ele>78.9</ele>
+    </rtept>
+    <rtept lat="53.680477621690919" lon="-1.7400236207758155">
+      <ele>71.9</ele>
+    </rtept>
+    <rtept lat="53.680264697169882" lon="-1.741423430714832">
+      <ele>74.2</ele>
+    </rtept>
+    <rtept lat="53.678631535806772" lon="-1.741573634419666">
+      <ele>72.7</ele>
+    </rtept>
+    <rtept lat="53.676025972184561" lon="-1.743869605336414">
+      <ele>71.1</ele>
+    </rtept>
+    <rtept lat="53.675682788378822" lon="-1.7428181794025761">
+      <ele>64.6</ele>
+    </rtept>
+    <rtept lat="53.675237916321173" lon="-1.7434082653858525">
+      <ele>64.4</ele>
+    </rtept>
+    <rtept lat="53.674786684149296" lon="-1.7424533989765507">
+      <ele>58.9</ele>
+    </rtept>
+    <rtept lat="53.67439264646859" lon="-1.7424426701404912">
+      <ele>66</ele>
+    </rtept>
+    <rtept lat="53.67484822811204" lon="-1.7357083456469695">
+      <ele>71.5</ele>
+    </rtept>
+    <rtept lat="53.675413855578221" lon="-1.7336162226153533">
+      <ele>75</ele>
+    </rtept>
+    <rtept lat="53.675884420506463" lon="-1.7330883296543387">
+      <ele>76.6</ele>
+    </rtept>
+    <rtept lat="53.676416608749264" lon="-1.730653141097902">
+      <ele>67.2</ele>
+    </rtept>
+    <rtept lat="53.678934040394672" lon="-1.7231600167288363">
+      <ele>74.6</ele>
+    </rtept>
+    <rtept lat="53.67890836218416" lon="-1.718735991700636">
+      <ele>60.4</ele>
+    </rtept>
+    <rtept lat="53.677991248094045" lon="-1.7153327581507654">
+      <ele>52.9</ele>
+    </rtept>
+    <rtept lat="53.679071572896852" lon="-1.714892875872323">
+      <ele>46.9</ele>
+    </rtept>
+    <rtept lat="53.68015822459833" lon="-1.7152469274622888">
+      <ele>46.2</ele>
+    </rtept>
+    <rtept lat="53.680977960838874" lon="-1.7185406801325769">
+      <ele>43.9</ele>
+    </rtept>
+    <rtept lat="53.684202642008472" lon="-1.7238101181438026">
+      <ele>48.9</ele>
+    </rtept>
+    <rtept lat="53.683103386332384" lon="-1.7258378681590614">
+      <ele>47</ele>
+    </rtept>
+    <rtept lat="53.680022958367374" lon="-1.7312422810951955">
+      <ele>49.5</ele>
+    </rtept>
+    <rtept lat="53.681629901538358" lon="-1.7355012287290921">
+      <ele>50.5</ele>
+    </rtept>
+    <rtept lat="53.6804417228987" lon="-1.7400623006889218">
+      <ele>71.4</ele>
+    </rtept>
+    <rtept lat="53.681762321321827" lon="-1.7398730655799872">
+      <ele>78.9</ele>
+    </rtept>
+    <rtept lat="53.68215223051002" lon="-1.742613310791284">
+      <ele>90.9</ele>
+    </rtept>
+  </rte>
+</gpx>

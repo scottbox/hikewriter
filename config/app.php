@@ -26,7 +26,7 @@ return [
 	|
 	*/
 
-	'url' => 'http://localhost',
+	'url' => 'http://hikewriter.dev',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -135,7 +135,6 @@ return [
 		'Illuminate\Translation\TranslationServiceProvider',
 		'Illuminate\Validation\ValidationServiceProvider',
 		'Illuminate\View\ViewServiceProvider',
-		'Cviebrock\EloquentSluggable\SluggableServiceProvider',
 
 		/*
 		 * Application Service Providers...
@@ -146,7 +145,8 @@ return [
 		'App\Providers\EventServiceProvider',
 		'App\Providers\RouteServiceProvider',
 		'Cviebrock\EloquentSluggable\SluggableServiceProvider',
-		'Illuminate\Html\HtmlServiceProvider'
+		'Illuminate\Html\HtmlServiceProvider',
+		'Bkwld\Croppa\ServiceProvider',
 
 	],
 
@@ -196,7 +196,8 @@ return [
 		'Validator' => 'Illuminate\Support\Facades\Validator',
 		'View'      => 'Illuminate\Support\Facades\View',
 		'Form'=> 'Illuminate\Html\FormFacade',
-		'HTML'=> 'Illuminate\Html\HtmlFacade'
+		'HTML'=> 'Illuminate\Html\HtmlFacade',
+		'Croppa' => 'Bkwld\Croppa\Facade',
 
 	],
 

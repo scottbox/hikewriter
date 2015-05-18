@@ -24,4 +24,9 @@ class Walk extends Model implements SluggableInterface {
 		return $this->belongsTo('App\User');
 	}
 
+    public function upvotes()
+    {
+        return $this->hasMany('App\Upvote');
+    }
+
 }

@@ -4,7 +4,7 @@
 
 @section('content')
 
-@if (Auth::check())
+@if(Auth::check())
 <div class="container">
 {!! Form::open(['action' => ['WalkController@update', $walk->id], 'method' => 'PATCH']) !!}
 

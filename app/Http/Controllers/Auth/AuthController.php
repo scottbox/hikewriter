@@ -34,5 +34,12 @@ class AuthController extends Controller {
 
 		$this->middleware('guest', ['except' => 'getLogout']);
 	}
+	
+	public function getIndex()
+	{
+		$user = User::find(Auth::user()->id);
+		
+		return view('auth.index', ['user' => $user]);
+	}
 
 }

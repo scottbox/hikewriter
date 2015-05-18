@@ -5,8 +5,13 @@ use App\Http\Controllers\Controller;
 use Auth;
 use App\Walk;
 use App\Image;
+use App\User;
 
 use Illuminate\Http\Request;
+
+use Location\Coordinate;
+use Location\Polyline;
+use Location\Distance\Vincenty;
 
 class WalkController extends Controller {
 
@@ -17,10 +22,12 @@ class WalkController extends Controller {
 	 */
 	public function index()
 	{
-		$walks = Walk::all();
+		$walks_by_upvote = Walk::with('upvotes')->take(10)->get()->sortByDesc(function($walk){
+			return $walk->upvotes->count();
+		});
 		
 		return view('walk.index', [
-			'walks'	=> $walks
+			'walks_by_upvote'	=> $walks_by_upvote
 		]);
 	}
 
@@ -63,11 +70,34 @@ class WalkController extends Controller {
 	{
 		$walk = Walk::where('slug', $slug)->first();
 		
+		// get distance
+		$gpxfile = asset('gpx/' . $walk->gpx);
+	
+		$xml = simplexml_load_file($gpxfile);
+		$track = new Polyline();		
+		
+		$numItems = count($xml);
+		$i = 1;
+		foreach($xml as $wpt) {
+			if(--$numItems <= 0) {
+				break;
+			} else {
+				$latitude = (float)$wpt['lat'];
+				$longditude = (float)$wpt['lon'];
+				$track->addPoint(new Coordinate($latitude, $longditude));
+			}
+		}
+
+		$metres = $track->getLength(new Vincenty());
+		$miles = $metres * 0.000621371192;
+		
+		// get image
 		$featured_image = Image::where('id', $walk->featured_image_id)->first();
 		
 		return view('walk.show', [
 			'walk'				=> $walk,
-			'featured_image'	=> $featured_image
+			'featured_image'	=> $featured_image,
+			'miles'				=> $miles,
 		]);
 	}
 

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.1" creator="c582de3f-12e3-467e-86bd-ce7174a0e1a6" xmlns="http://www.topografix.com/GPX/1/1">
+  <rte>
+    <name>Holme 4 Reservoirs</name>
+    <rtept lat="53.547156348100607" lon="-1.8279241920472897">
+      <ele>247.6</ele>
+    </rtept>
+    <rtept lat="53.545438430611334" lon="-1.8278319161473178">
+      <ele>256.6</ele>
+    </rtept>
+    <rtept lat="53.543570539437667" lon="-1.8260616581974887">
+      <ele>260.5</ele>
+    </rtept>
+    <rtept lat="53.53855296293974" lon="-1.8200320523320102">
+      <ele>292.1</ele>
+    </rtept>
+    <rtept lat="53.536142784659624" lon="-1.8187338631688022">
+      <ele>297.9</ele>
+    </rtept>
+    <rtept lat="53.538801624319056" lon="-1.8226284306584262">
+      <ele>285</ele>
+    </rtept>
+    <rtept lat="53.54024893207707" lon="-1.8259865563450717">
+      <ele>287.5</ele>
+    </rtept>
+    <rtept lat="53.540202667959313" lon="-1.8277277344213871">
+      <ele>283.9</ele>
+    </rtept>
+    <rtept lat="53.539373818444467" lon="-1.8295945518957524">
+      <ele>290</ele>
+    </rtept>
+    <rtept lat="53.538315417781128" lon="-1.8290688389288334">
+      <ele>309.7</ele>
+    </rtept>
+    <rtept lat="53.537741575034509" lon="-1.8305601471411137">
+      <ele>305</ele>
+    </rtept>
+    <rtept lat="53.536294181558333" lon="-1.8319119804846196">
+      <ele>314.3</ele>
+    </rtept>
+    <rtept lat="53.535707558658096" lon="-1.8345512741552739">
+      <ele>309</ele>
+    </rtept>
+    <rtept lat="53.537397265653148" lon="-1.8375982635961918">
+      <ele>294.3</ele>
+    </rtept>
+    <rtept lat="53.539348315124947" lon="-1.831751047943726">
+      <ele>284.6</ele>
+    </rtept>
+    <rtept lat="53.540776477348025" lon="-1.8306888931738286">
+      <ele>274.2</ele>
+    </rtept>
+    <rtept lat="53.541578526112886" lon="-1.8320034466836819">
+      <ele>253.4</ele>
+    </rtept>
+    <rtept lat="53.541842530224869" lon="-1.8340654678346922">
+      <ele>273.5</ele>
+    </rtept>
+    <rtept lat="53.542303922957863" lon="-1.8344762885096329">
+      <ele>275.3</ele>
+    </rtept>
+    <rtept lat="53.543006740569872" lon="-1.8317657175110715">
+      <ele>266.6</ele>
+    </rtept>
+    <rtept lat="53.544756184768772" lon="-1.8305724726050932">
+      <ele>260.2</ele>
+    </rtept>
+    <rtept lat="53.547444769203594" lon="-1.830897076896695">
+      <ele>249.4</ele>
+    </rtept>
+    <rtept lat="53.5475182862962" lon="-1.8285755326146587">
+      <ele>238.6</ele>
+    </rtept>
+    <rtept lat="53.547210114483981" lon="-1.8279061921768096">
+      <ele>247.6</ele>
+    </rtept>
+  </rte>
+</gpx>

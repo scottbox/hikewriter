@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.1" creator="693afd2b-26c2-44da-a0d0-52ad23478a8c" xmlns="http://www.topografix.com/GPX/1/1">
+  <rte>
+    <name>Chelsfield to Dunton Green</name>
+    <rtept lat="51.357707345723185" lon="0.10888180582739131">
+      <ele>113.9</ele>
+    </rtept>
+    <rtept lat="51.357667335154737" lon="0.11849449820743896">
+      <ele>128.4</ele>
+    </rtept>
+    <rtept lat="51.356317225176909" lon="0.12260514557808029">
+      <ele>134.1</ele>
+    </rtept>
+    <rtept lat="51.35548286757848" lon="0.12538938800721822">
+      <ele>132.1</ele>
+    </rtept>
+    <rtept lat="51.35479974099519" lon="0.13588799369141807">
+      <ele>129</ele>
+    </rtept>
+    <rtept lat="51.352196476577859" lon="0.1395713632554719">
+      <ele>143</ele>
+    </rtept>
+    <rtept lat="51.351001040149939" lon="0.14022746200842326">
+      <ele>152</ele>
+    </rtept>
+    <rtept lat="51.349827778896405" lon="0.14135088450725847">
+      <ele>154</ele>
+    </rtept>
+    <rtept lat="51.347707137607927" lon="0.14468795472510479">
+      <ele>158.8</ele>
+    </rtept>
+    <rtept lat="51.347742106888333" lon="0.14780644886327488">
+      <ele>186.1</ele>
+    </rtept>
+    <rtept lat="51.346524132577514" lon="0.15135712753119493">
+      <ele>172.3</ele>
+    </rtept>
+    <rtept lat="51.345748661102185" lon="0.15173801871083467">
+      <ele>166.9</ele>
+    </rtept>
+    <rtept lat="51.343809644480061" lon="0.14853062018232754">
+      <ele>171</ele>
+    </rtept>
+    <rtept lat="51.340252863027189" lon="0.14938798584830168">
+      <ele>168.9</ele>
+    </rtept>
+    <rtept lat="51.338875288312074" lon="0.15908948949398186">
+      <ele>123.3</ele>
+    </rtept>
+    <rtept lat="51.3397041677864" lon="0.16413417966232244">
+      <ele>91.8</ele>
+    </rtept>
+    <rtept lat="51.3393047530437" lon="0.1657839404833221">
+      <ele>88.2</ele>
+    </rtept>
+    <rtept lat="51.335476998071442" lon="0.16997093553068887">
+      <ele>153.2</ele>
+    </rtept>
+    <rtept lat="51.333980735578862" lon="0.17770241387329502">
+      <ele>58</ele>
+    </rtept>
+    <rtept lat="51.333205542009722" lon="0.17808291780501448">
+      <ele>55.5</ele>
+    </rtept>
+    <rtept lat="51.332103511397072" lon="0.18607769943333941">
+      <ele>64.4</ele>
+    </rtept>
+    <rtept lat="51.325882440661729" lon="0.1867139898198445">
+      <ele>80.6</ele>
+    </rtept>
+    <rtept lat="51.326927420566008" lon="0.18342757938819512">
+      <ele>74.3</ele>
+    </rtept>
+    <rtept lat="51.3185247767385" lon="0.18072310032660915">
+      <ele>63.8</ele>
+    </rtept>
+    <rtept lat="51.312619256948778" lon="0.18421955802502965">
+      <ele>59</ele>
+    </rtept>
+    <rtept lat="51.311589226343095" lon="0.17681391838258911">
+      <ele>68.4</ele>
+    </rtept>
+    <rtept lat="51.307070610905015" lon="0.17351055576450233">
+      <ele>75.1</ele>
+    </rtept>
+    <rtept lat="51.305473131848991" lon="0.17014951190564542">
+      <ele>96.8</ele>
+    </rtept>
+    <rtept lat="51.299533833749358" lon="0.17134036902978317">
+      <ele>79.1</ele>
+    </rtept>
+    <rtept lat="51.2988847918562" lon="0.17153038352869987">
+      <ele>78.5</ele>
+    </rtept>
+    <rtept lat="51.297205204581225" lon="0.16931554162152906">
+      <ele>78.9</ele>
+    </rtept>
+    <rtept lat="51.296688692473424" lon="0.17093534910512176">
+      <ele>77.2</ele>
+    </rtept>
+  </rte>
+</gpx>

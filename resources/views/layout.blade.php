@@ -19,7 +19,7 @@
 		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 	<![endif]-->
 </head>
-<body>
+<body onload="init()">
 
 	@include('common.header')
 
@@ -30,6 +30,7 @@
 	<!-- Scripts -->
 	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 	<script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.1/js/bootstrap.min.js"></script>
+	<script src="http://openspace.ordnancesurvey.co.uk/osmapapi/openspace.js?key=CF662CB407E24B29E0405F0ACA607B12"></script>  
 	<script src="{{ asset('/js/hikewriter.js') }}"></script>
 </body>
 </html>

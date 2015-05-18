@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="53.54690629" lon="-1.787115198">
+  <ele>286.2</ele>
+</wpt>
+<wpt lat="53.54401798" lon="-1.787998947">
+  <ele>280.5</ele>
+</wpt>
+<wpt lat="53.539929232" lon="-1.792062267">
+  <ele>338.2</ele>
+</wpt>
+<wpt lat="53.534876954" lon="-1.785679991">
+  <ele>395.3</ele>
+</wpt>
+<wpt lat="53.534829351" lon="-1.784829357">
+  <ele>396.0</ele>
+</wpt>
+<wpt lat="53.532152203" lon="-1.784254583">
+  <ele>394.7</ele>
+</wpt>
+<wpt lat="53.531675696" lon="-1.782828493">
+  <ele>389.9</ele>
+</wpt>
+<wpt lat="53.529429892" lon="-1.780525456">
+  <ele>387.3</ele>
+</wpt>
+<wpt lat="53.529833067" lon="-1.782611638">
+  <ele>393.5</ele>
+</wpt>
+<wpt lat="53.52619949" lon="-1.784675017">
+  <ele>413.2</ele>
+</wpt>
+<wpt lat="53.527398137" lon="-1.78677455">
+  <ele>427.2</ele>
+</wpt>
+<wpt lat="53.525754636" lon="-1.802391008">
+  <ele>463.4</ele>
+</wpt>
+<wpt lat="53.527260079" lon="-1.808349761">
+  <ele>469.2</ele>
+</wpt>
+<wpt lat="53.52888635" lon="-1.806472215">
+  <ele>460.8</ele>
+</wpt>
+<wpt lat="53.529996004" lon="-1.804841431">
+  <ele>438.7</ele>
+</wpt>
+<wpt lat="53.532381024" lon="-1.804122599">
+  <ele>425.6</ele>
+</wpt>
+<wpt lat="53.533732902" lon="-1.802749308">
+  <ele>443.5</ele>
+</wpt>
+<wpt lat="53.534212373" lon="-1.801062685">
+  <ele>442.4</ele>
+</wpt>
+<wpt lat="53.533860435" lon="-1.797642382">
+  <ele>432.6</ele>
+</wpt>
+<wpt lat="53.536670746" lon="-1.804328804">
+  <ele>406.0</ele>
+</wpt>
+<wpt lat="53.541397112" lon="-1.805238179">
+  <ele>379.2</ele>
+</wpt>
+<wpt lat="53.545918201" lon="-1.803079706">
+  <ele>343.2</ele>
+</wpt>
+<wpt lat="53.544879089" lon="-1.79723249">
+  <ele>326.7</ele>
+</wpt>
+<wpt lat="53.5476553" lon="-1.795999202">
+  <ele>307.8</ele>
+</wpt>
+<wpt lat="53.54742221" lon="-1.794427027">
+  <ele>294.3</ele>
+</wpt>
+<wpt lat="53.548256538" lon="-1.788361843">
+  <ele>275.4</ele>
+</wpt>
+<wpt lat="53.546912665" lon="-1.78709374">
+  <ele>286.4</ele>
+</wpt>
+<trk>
+  <name>Snailsden from Hade Edge</name>
+  <trkseg>
+    <trkpt lat="53.54690629" lon="-1.787115198">
+      <ele>286.228</ele>
+    </trkpt>
+    <trkpt lat="53.54401798" lon="-1.787998947">
+      <ele>280.53</ele>
+    </trkpt>
+    <trkpt lat="53.539929232" lon="-1.792062267">
+      <ele>338.206</ele>
+    </trkpt>
+    <trkpt lat="53.534876954" lon="-1.785679991">
+      <ele>395.284</ele>
+    </trkpt>
+    <trkpt lat="53.534829351" lon="-1.784829357">
+      <ele>396.024</ele>
+    </trkpt>
+    <trkpt lat="53.532152203" lon="-1.784254583">
+      <ele>394.741</ele>
+    </trkpt>
+    <trkpt lat="53.531675696" lon="-1.782828493">
+      <ele>389.939</ele>
+    </trkpt>
+    <trkpt lat="53.529429892" lon="-1.780525456">
+      <ele>387.332</ele>
+    </trkpt>
+    <trkpt lat="53.529833067" lon="-1.782611638">
+      <ele>393.542</ele>
+    </trkpt>
+    <trkpt lat="53.52619949" lon="-1.784675017">
+      <ele>413.197</ele>
+    </trkpt>
+    <trkpt lat="53.527398137" lon="-1.78677455">
+      <ele>427.209</ele>
+    </trkpt>
+    <trkpt lat="53.525754636" lon="-1.802391008">
+      <ele>463.406</ele>
+    </trkpt>
+    <trkpt lat="53.527260079" lon="-1.808349761">
+      <ele>469.24</ele>
+    </trkpt>
+    <trkpt lat="53.52888635" lon="-1.806472215">
+      <ele>460.793</ele>
+    </trkpt>
+    <trkpt lat="53.529996004" lon="-1.804841431">
+      <ele>438.667</ele>
+    </trkpt>
+    <trkpt lat="53.532381024" lon="-1.804122599">
+      <ele>425.579</ele>
+    </trkpt>
+    <trkpt lat="53.533732902" lon="-1.802749308">
+      <ele>443.467</ele>
+    </trkpt>
+    <trkpt lat="53.534212373" lon="-1.801062685">
+      <ele>442.444</ele>
+    </trkpt>
+    <trkpt lat="53.533860435" lon="-1.797642382">
+      <ele>432.595</ele>
+    </trkpt>
+    <trkpt lat="53.536670746" lon="-1.804328804">
+      <ele>405.963</ele>
+    </trkpt>
+    <trkpt lat="53.541397112" lon="-1.805238179">
+      <ele>379.172</ele>
+    </trkpt>
+    <trkpt lat="53.545918201" lon="-1.803079706">
+      <ele>343.155</ele>
+    </trkpt>
+    <trkpt lat="53.544879089" lon="-1.79723249">
+      <ele>326.716</ele>
+    </trkpt>
+    <trkpt lat="53.5476553" lon="-1.795999202">
+      <ele>307.765</ele>
+    </trkpt>
+    <trkpt lat="53.54742221" lon="-1.794427027">
+      <ele>294.322</ele>
+    </trkpt>
+    <trkpt lat="53.548256538" lon="-1.788361843">
+      <ele>275.423</ele>
+    </trkpt>
+    <trkpt lat="53.546912665" lon="-1.78709374">
+      <ele>286.442</ele>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>
