@@ -69,6 +69,7 @@ class WalkController extends Controller {
 	public function show($slug)
 	{
 		$walk = Walk::where('slug', $slug)->first();
+		$walks = Walk::where('user_id', $walk->user_id)->take(5)->get();
 		
 		// get distance
 		$gpxfile = asset('gpx/' . $walk->gpx);
@@ -96,6 +97,7 @@ class WalkController extends Controller {
 		
 		return view('walk.show', [
 			'walk'				=> $walk,
+			'walks'				=> $walks,
 			'featured_image'	=> $featured_image,
 			'miles'				=> $miles,
 		]);

@@ -61,11 +61,13 @@ class UpvoteController extends Controller {
 	{
 		$user = User::where('subdomain', $subdomain)->first();
 		$walk = Walk::where('user_id', $user->id)->first();
+		$walks = Walk::where('user_id', $walk->user_id)->take(5)->get();
 		
 		$featured_image = Image::where('id', $walk->featured_image_id)->first();
 		
 		return view('upvotes.show', [
 			'user'				=> $user,
+			'walks'				=> $walks,
 			'featured_image'	=> $featured_image,
 		]);
 	}

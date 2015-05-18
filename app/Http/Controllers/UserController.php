@@ -55,7 +55,7 @@ class UserController extends Controller {
 	{
 		$user = User::where('subdomain', $subdomain)->with('walks')->first();
 		
-		$featured_image = Image::where('id', $user->walk[0]->featured_image_id)->first();
+		$featured_image = Image::where('id', $user->walks[0]->featured_image_id)->first();
 		
 		return view('user.show', [
 			'user'				=> $user,
